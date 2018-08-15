@@ -1,0 +1,1 @@
+webpackJsonp([12],{"8J/z":function(e,t,r){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n={render:function(){var e=this.$createElement;return(this._self._c||e)("div")},staticRenderFns:[]},u=r("VU/8")({data:function(){return{}},created:function(){var e=this.Cookies.get("beforeUrl");this.$router.push(e)}},n,!1,null,null,null);t.default=u.exports}});
